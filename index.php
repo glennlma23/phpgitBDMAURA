@@ -9,9 +9,6 @@
   <h1 style="text-align:center;">Personas</h1>
   <table>
    <?php
-   {
-	    "PHP_EXTENSIONS": ["mysqli"]	
-   } 
   $servername = "us-cdbr-iron-east-03.cleardb.net";
   $username = "b3da777131d6df";
   $password = "cbff8bdb";
